@@ -1,5 +1,4 @@
- function that prints every minute of the day of Jack Bauer, starting from 00:00 to 23:59.
+Write a function that adds two integers and returns the result.
 
-    Prototype: void jack_bauer(void);
-    You can listen to this soundtrack while coding :)
+    Prototype: int add(int, int);
 
