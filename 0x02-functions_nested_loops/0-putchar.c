@@ -1,8 +1,9 @@
 #include "main.h"
+
 /**
- * main - prints Holberton as a message
+ * main - Prints Holberton as a message
  *
- * REturn: Always 0 (SUcess)
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
