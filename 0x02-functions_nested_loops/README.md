@@ -1,5 +1,5 @@
-Write a function that computes the absolute value of an integer.
+ function that prints the last digit of a number.
 
-    Prototype: int _abs(int);
+    Prototype: int print_last_digit(int);
+    Returns the value of the last digit
 
-FYI: The standard library provides a similar function: abs. Run man abs to learn more
